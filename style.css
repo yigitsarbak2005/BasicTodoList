@@ -1,0 +1,21 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.todo-bg {
+    background-color: rgb(168, 153, 153);
+    margin-top: 200px;
+    width: 400px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+.todo-input {
+    width: 250px;
+    height: 45px;
+    border: 2px solid rgb(94, 79, 79);
+    border-radius: 15px;
+}
+
